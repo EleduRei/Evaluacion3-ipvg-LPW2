@@ -14,8 +14,8 @@ GameHub es una página web para ordenar eso:
 
 | Nombre | Rama | GitHub |
 |---|---|---|
-| _(completar)_ | `rama-integrante-1` | _(completar)_ |
-| _(completar)_ | `rama-integrante-2` | _(completar)_ |
+| _(Eduardo Reinoso)_ | `rama-integrante-1` | _(eduardo.reinoso@virginiogomez.cl)_ |
+| _(Felipe Jara)_ | `rama-integrante-2` | _(felipe.jara9@virginiogomez.cl)_ |
 
 ## Tecnologías
 
