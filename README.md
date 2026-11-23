@@ -125,8 +125,8 @@ Tablero: _(pegar el link)_. Usamos las columnas Pendiente → En proceso → Ter
 
 | Integrante | Qué hizo (front y back) |
 |---|---|
-| _(completar)_ | _(completar)_ |
-| _(completar)_ | _(completar)_ |
+| _(Eduardo Reinoso)_ | _(eduardo.reinoso@virginiogomez.cl)_ |
+| _(Felipe Jara)_ | _(Felipe.jara9@virginiogomez.cl)_ |
 
 ## Pruebas
 
